@@ -1,0 +1,2 @@
+# Apache-Spark-pyspark---Extracting-text-features-for-TF-IDF
+This tutorial brings you trough the most import fundamentals of running spark programmes. When begining every pyspark session the following process is required:      Import and create RDDs from external data sources.      Transform - develop new RDDs using transformations such as filter().      persist - possible RDDs that will need further use later need to be persisted a.      Actions - Initiate parellel computation executed by Spark using take(), count() etc..
